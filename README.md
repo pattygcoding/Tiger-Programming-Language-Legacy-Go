@@ -1,4 +1,6 @@
-# Tiger Programming Language
+# Tiger Programming Language (Legacy- G0)
+
+**NOTICE: This is the legacy code for the Tiger Programming Language, implemented in Go. The interpreter has been rewritten in Rust, please visit the [new repo](https://github.com/pattygcoding/Tiger-Programming-Language) to view the latest version of Tiger.**
 
 Tiger is a dynamically typed language implemented in Go 1.22+. It uses Python-like expressions, explicit brace-delimited lexical scopes, and mandatory semicolons on simple statements. Source files use `.tg`.
 
